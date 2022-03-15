@@ -2,4 +2,4 @@ Minha trajetória acadêmica e profissional são provas de que estou sempre em m
 
 Recentemente, aos 23, passei pela transição de carreira cursando na Labenu o curso de Desenvolvimento web full stack e hoje atuo profissionalmente como desensolvedor Front End Jr , utilizando React JS, Figma, GitHub, Jira, Typescript, API REST, React Hooks e diversas bibliotecas atuais que viabilizam o trabalho.
 
-Apesar de já atuar, não parei de aprender, sigo fazendo cursos de PHP, JQUERY entre outros bootcamps pelas plataformas online gratuitas como a innovationOne que me ajudam a praticar o back end .
+Apesar de já atuar com backEnd, não parei de aprender, sigo fazendo cursos de PHP, JQUERY entre outros bootcamps pelas plataformas online gratuitas como a innovationOne que me ajudam a praticar o back end .
