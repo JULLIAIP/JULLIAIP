@@ -1,5 +1,5 @@
-Minha trajetória acadêmica e profissional são provas de que estou sempre em movimento, aos 16 anos fiz meu primeiro intercâmbio para a argentina onde estudei por 6 meses, aos 17 tive de me mudar para a capital para dar continuidade aos estudos, estudei administração de empresas por 7 anos (3 anos de ensino médio 4 anos de graduação -UFPB ) e atuei na área por 3
+My academic and professional journey are proof that I am always on the move. At the age of 16, I did my first exchange program to Argentina, where I studied for six months. At 17, I had to move to the capital to continue my studies. I studied business administration for seven years (three years of high school and four years of college at UFPB) and worked in the field for three.
 
-Recentemente, aos 23, passei pela transição de carreira cursando na Labenu o curso de Desenvolvimento web full stack e hoje atuo profissionalmente como desensolvedor Front End Jr , utilizando React JS, Figma, GitHub, Jira, Typescript, API REST, React Hooks e diversas bibliotecas atuais que viabilizam o trabalho.
+Recently, at the age of 23, I made a career transition by taking a full-stack web development course at Labenu. Now I work as a professional Front End Jr developer, using React JS, Figma, GitHub, Jira, Typescript, REST API, React Hooks, and various modern libraries that make my work possible.
 
-Apesar de já atuar , não parei de aprender, sigo fazendo cursos de PHP, JQUERY entre outros bootcamps pelas plataformas online gratuitas como a innovationOne que me ajudam a praticar o back end .
+Despite already working as a developer, I haven't stopped learning. I'm still taking courses in PHP, JQUERY, and other bootcamps on free online platforms such as InnovationOne, which help me to practice back-end development.
